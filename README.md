@@ -1,2 +1,2 @@
 # bootcamp_alura
-Projects from Alura's Data Science Bootcamp
+Exercises and projects from Alura's Data Science Bootcamp
